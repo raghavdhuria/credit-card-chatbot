@@ -366,7 +366,7 @@ with col1:
     st.markdown("""
     **Product Recommendations:**
     - Best travel credit card
-    - Cashback card under ₹5000
+    - Cashback card under 5000
     - Premium cards for high earners
     """)
 
